@@ -1,0 +1,17 @@
+1. Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+
+Algunos de los objetivos fueron los siguientes:
+
+Velocidad
+
+Diseño sencillo
+
+Gran soporte para desarrollo no lineal (miles de ramas paralelas)
+
+Completamente distribuido
+
+Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (velocidad y tamaño de los datos)
+
+2. El 4 de junio de 2018, Microsoft anunció la compra de la compañía por un importe de 7500 millones de dólares. Cerrándose la adquisición el 26 de octubre de 2018.
+
+3. Los clientes de la interfaz gráfica de usuario (GUI, por sus siglas en inglés) son herramientas que proporcionan una visualización alternativa para Git.
